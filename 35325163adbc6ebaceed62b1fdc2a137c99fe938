@@ -1,0 +1,1 @@
+{"jobID":"a797d763-640e-6e79-441e-ca1f45f4fa8a","spec":{"type":"policy","cause":{"Message":"","User":"Will Simpson \u003cwsimpson@email.arizona.edu\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
